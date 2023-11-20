@@ -1,6 +1,6 @@
 ## About me
 - 👋 Yo, I am **JimmyDeluxe**, I create open-source resources for FiveM.
-- 🔭 You can reach me trough Discord, **jimmydeluxe**
+- 🔭 You can reach me through Discord, **jimmydeluxe**
 
 ## My Stats
 <div align="center" display="flex" flex-direction="column">

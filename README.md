@@ -1,5 +1,5 @@
 ## ❔ About me
-- 👋 Yo, I am **JimmyDeluxe**, I create open-source resources for FiveM.
+- 👋 Yo, I am **JimmyDeluxe**.
 - 🔭 You can reach me through Discord, **jimmydeluxe**
 
 ---
